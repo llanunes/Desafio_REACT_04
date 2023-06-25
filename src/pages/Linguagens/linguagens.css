@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+
+.text-ling{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 2.2rem;
+    color: black;
+    font-family: 'Caprasimo', cursive;
+}
+
+.container{
+    padding: 50px;
+    display: flex;
+}
+
+
+.react{
+    font-size: 200px;
+    color: #61DBFB;
+    font-size: 250px;
+}
+
+.js{
+    font-size: 200px;
+    color: yellow;
+    font-size: 250px;
+}
+
+.html{
+    font-size: 200px;
+    color: orangered;
+    font-size: 250px;
+}
+
+.css{
+    font-size: 200px;
+    color: blue;
+    font-size: 250px;
+}
+
+@media (max-width: 480px) {
+    .container {
+      padding: 10px;
+    }
+  
+    .react,
+    .js,
+    .html,
+    .css {
+      font-size: 100px;
+    }
+  }

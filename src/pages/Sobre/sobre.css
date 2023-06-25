@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Urbanist:wght@300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300&display=swap');
+
+.text-sobre{
+    color: black;
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    padding: 40px 20px;
+}
+
+.img{
+    display: flex;
+}
